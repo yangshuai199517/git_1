@@ -1,2 +1,4 @@
 #master branch
-feature-a
+<<<<<<< HEAD
+- feature-a
+- fix-b
